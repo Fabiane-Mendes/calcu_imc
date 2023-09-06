@@ -1,8 +1,5 @@
-# calcu_imc
-
 #Fabiane Cruz Mendes e Jennifer Rebeca
 # 2° Informatica Matutino 
-# imc
 
 import 'package:flutter/material.dart';
 
